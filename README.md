@@ -1,4 +1,4 @@
-# <div align='center'>Baileys - Typescript/Javascript</div>
+# <div align='center'>Private - Token/Api</div>
 
 <div align="center">
 
